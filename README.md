@@ -10,5 +10,10 @@ Explanations to install it can be however shortened
  * first the full namespace name of the class implementing IAuthenticationProvider
  * then the output of the fullname of the assembly
  
+ Detailed steps at:
+ http://dimitri.janczak.net/2015/08/14/registering-a-custom-adfs-provider-the-easy-way/
+ 
+ 
+ 
 
 
